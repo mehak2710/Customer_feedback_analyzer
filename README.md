@@ -21,8 +21,6 @@ A simple Streamlit web app to analyze customer reviews. Users can **paste review
 
 ## Demo Screenshot
 
-*(Your dashboard screenshot can go here — shows categorized reviews and bar chart)*
-
 ---
 
 ## Installation
